@@ -1,5 +1,5 @@
 # Autosivu
-# syksy 2020
+# projekti: syksy 2020
 
 Index.html-tiedostosta avautuvan autosivuston pääsivun ylävalikosta löytyvät haku, tekijät, ohjeet ja palaute-sivujen linkit <br />
 HAKU: voit hakea autoja maakunnan, merkin, mallin ja värin perusteella <br />
